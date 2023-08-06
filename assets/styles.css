@@ -1,0 +1,4 @@
+.hoverable-row:hover {
+    background-color: skyblue !important;
+    cursor: pointer;
+}
